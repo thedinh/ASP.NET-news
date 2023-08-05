@@ -1,0 +1,367 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+	<Table>
+		<MaDanhMuc>1</MaDanhMuc>
+		<TenDanhMuc>KT</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>2</MaDanhMuc>
+		<TenDanhMuc>XH</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>3</MaDanhMuc>
+		<TenDanhMuc>TT</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>4</MaDanhMuc>
+		<TenDanhMuc>TG</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>5</MaDanhMuc>
+		<TenDanhMuc>hass</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>7</MaDanhMuc>
+		<TenDanhMuc>CXV</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>8</MaDanhMuc>
+		<TenDanhMuc>zzz</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>9</MaDanhMuc>
+		<TenDanhMuc>TenDanhMuc</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>10</MaDanhMuc>
+		<TenDanhMuc>zxczxcqweqw31123</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>11</MaDanhMuc>
+		<TenDanhMuc>System.Web.UI.WebControls.TextBox</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>12</MaDanhMuc>
+		<TenDanhMuc />
+	</Table>
+	<Table>
+		<MaDanhMuc>13</MaDanhMuc>
+		<TenDanhMuc />
+	</Table>
+	<Table>
+		<MaDanhMuc>14</MaDanhMuc>
+		<TenDanhMuc />
+	</Table>
+	<Table>
+		<MaDanhMuc>15</MaDanhMuc>
+		<TenDanhMuc>them tu wweb</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>16</MaDanhMuc>
+		<TenDanhMuc>zxc cz</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>17</MaDanhMuc>
+		<TenDanhMuc>zxcx sdqw</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>18</MaDanhMuc>
+		<TenDanhMuc>zxcx sdqw</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>19</MaDanhMuc>
+		<TenDanhMuc>zxcx sdqw</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>20</MaDanhMuc>
+		<TenDanhMuc>zxcx sdqw</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>21</MaDanhMuc>
+		<TenDanhMuc>zxcxzc</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>22</MaDanhMuc>
+		<TenDanhMuc>test toast</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>23</MaDanhMuc>
+		<TenDanhMuc>test toast</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>24</MaDanhMuc>
+		<TenDanhMuc>test toast</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>25</MaDanhMuc>
+		<TenDanhMuc>zxczxc</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>26</MaDanhMuc>
+		<TenDanhMuc>zxczxc</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>27</MaDanhMuc>
+		<TenDanhMuc>zxczxc</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>28</MaDanhMuc>
+		<TenDanhMuc>zxczxc</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>29</MaDanhMuc>
+		<TenDanhMuc>zxczxc</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>30</MaDanhMuc>
+		<TenDanhMuc />
+	</Table>
+	<Table>
+		<MaDanhMuc>31</MaDanhMuc>
+		<TenDanhMuc />
+	</Table>
+	<Table>
+		<MaDanhMuc>32</MaDanhMuc>
+		<TenDanhMuc />
+	</Table>
+	<Table>
+		<MaDanhMuc>33</MaDanhMuc>
+		<TenDanhMuc />
+	</Table>
+	<Table>
+		<MaDanhMuc>34</MaDanhMuc>
+		<TenDanhMuc />
+	</Table>
+	<Table>
+		<MaDanhMuc>35</MaDanhMuc>
+		<TenDanhMuc />
+	</Table>
+	<Table>
+		<MaDanhMuc>36</MaDanhMuc>
+		<TenDanhMuc>z123123</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>37</MaDanhMuc>
+		<TenDanhMuc>z123123</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>38</MaDanhMuc>
+		<TenDanhMuc>z123123</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>39</MaDanhMuc>
+		<TenDanhMuc>z123123</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>40</MaDanhMuc>
+		<TenDanhMuc>z123123</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>41</MaDanhMuc>
+		<TenDanhMuc />
+	</Table>
+	<Table>
+		<MaDanhMuc>42</MaDanhMuc>
+		<TenDanhMuc />
+	</Table>
+	<Table>
+		<MaDanhMuc>43</MaDanhMuc>
+		<TenDanhMuc />
+	</Table>
+	<Table>
+		<MaDanhMuc>44</MaDanhMuc>
+		<TenDanhMuc />
+	</Table>
+	<Table>
+		<MaDanhMuc>45</MaDanhMuc>
+		<TenDanhMuc>Tên danh mục Label (Tối đa 50 ký tự)</TenDanhMuc>
+	</Table>
+	<Table>
+		<MaDanhMuc>46</MaDanhMuc>
+		<TenDanhMuc>Tên danh mục Label (Tối đa 50 ký tự)</TenDanhMuc>
+	</Table>
+</NewDataSet>
+<string xmlns="http://tempuri.org/">
+	<NewDataSet>
+		<Table>
+			<MaDanhMuc>1</MaDanhMuc>
+			<TenDanhMuc>KT</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>2</MaDanhMuc>
+			<TenDanhMuc>XH</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>3</MaDanhMuc>
+			<TenDanhMuc>TT</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>4</MaDanhMuc>
+			<TenDanhMuc>TG</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>5</MaDanhMuc>
+			<TenDanhMuc>hass</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>7</MaDanhMuc>
+			<TenDanhMuc>CXV</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>8</MaDanhMuc>
+			<TenDanhMuc>zzz</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>9</MaDanhMuc>
+			<TenDanhMuc>TenDanhMuc</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>10</MaDanhMuc>
+			<TenDanhMuc>zxczxcqweqw31123</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>11</MaDanhMuc>
+			<TenDanhMuc>System.Web.UI.WebControls.TextBox</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>12</MaDanhMuc>
+			<TenDanhMuc />
+		</Table>
+		<Table>
+			<MaDanhMuc>13</MaDanhMuc>
+			<TenDanhMuc />
+		</Table>
+		<Table>
+			<MaDanhMuc>14</MaDanhMuc>
+			<TenDanhMuc />
+		</Table>
+		<Table>
+			<MaDanhMuc>15</MaDanhMuc>
+			<TenDanhMuc>them tu wweb</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>16</MaDanhMuc>
+			<TenDanhMuc>zxc cz</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>17</MaDanhMuc>
+			<TenDanhMuc>zxcx sdqw</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>18</MaDanhMuc>
+			<TenDanhMuc>zxcx sdqw</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>19</MaDanhMuc>
+			<TenDanhMuc>zxcx sdqw</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>20</MaDanhMuc>
+			<TenDanhMuc>zxcx sdqw</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>21</MaDanhMuc>
+			<TenDanhMuc>zxcxzc</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>22</MaDanhMuc>
+			<TenDanhMuc>test toast</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>23</MaDanhMuc>
+			<TenDanhMuc>test toast</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>24</MaDanhMuc>
+			<TenDanhMuc>test toast</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>25</MaDanhMuc>
+			<TenDanhMuc>zxczxc</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>26</MaDanhMuc>
+			<TenDanhMuc>zxczxc</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>27</MaDanhMuc>
+			<TenDanhMuc>zxczxc</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>28</MaDanhMuc>
+			<TenDanhMuc>zxczxc</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>29</MaDanhMuc>
+			<TenDanhMuc>zxczxc</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>30</MaDanhMuc>
+			<TenDanhMuc />
+		</Table>
+		<Table>
+			<MaDanhMuc>31</MaDanhMuc>
+			<TenDanhMuc />
+		</Table>
+		<Table>
+			<MaDanhMuc>32</MaDanhMuc>
+			<TenDanhMuc />
+		</Table>
+		<Table>
+			<MaDanhMuc>33</MaDanhMuc>
+			<TenDanhMuc />
+		</Table>
+		<Table>
+			<MaDanhMuc>34</MaDanhMuc>
+			<TenDanhMuc />
+		</Table>
+		<Table>
+			<MaDanhMuc>35</MaDanhMuc>
+			<TenDanhMuc />
+		</Table>
+		<Table>
+			<MaDanhMuc>36</MaDanhMuc>
+			<TenDanhMuc>z123123</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>37</MaDanhMuc>
+			<TenDanhMuc>z123123</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>38</MaDanhMuc>
+			<TenDanhMuc>z123123</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>39</MaDanhMuc>
+			<TenDanhMuc>z123123</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>40</MaDanhMuc>
+			<TenDanhMuc>z123123</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>41</MaDanhMuc>
+			<TenDanhMuc />
+		</Table>
+		<Table>
+			<MaDanhMuc>42</MaDanhMuc>
+			<TenDanhMuc />
+		</Table>
+		<Table>
+			<MaDanhMuc>43</MaDanhMuc>
+			<TenDanhMuc />
+		</Table>
+		<Table>
+			<MaDanhMuc>44</MaDanhMuc>
+			<TenDanhMuc />
+		</Table>
+		<Table>
+			<MaDanhMuc>45</MaDanhMuc>
+			<TenDanhMuc>Tên danh mục Label (Tối đa 50 ký tự)</TenDanhMuc>
+		</Table>
+		<Table>
+			<MaDanhMuc>46</MaDanhMuc>
+			<TenDanhMuc>Tên danh mục Label (Tối đa 50 ký tự)</TenDanhMuc>
+		</Table>
+	</NewDataSet>
+</string>
